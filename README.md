@@ -12,13 +12,13 @@ To build an interactive Power BI dashboard that helps stakeholders of a "commerc
 - Sales by Channel(Online, In-store, Mobile App)  
 - Customer Segmentation(New vs Returning)
   
-## Process
--📥 Collected sample sales data (Excel)
--🧹 Cleaned and formatted data in Power BI
--🔗 Created relationships and DAX measures
--📊 Built visual charts for sales, products, regions, customers
--🎛️ Added filters for interactivity (date, region, category)
--🎨 Designed layout with clean formatting
--✅ Tested and exported the final dashboard
+## 🔧 Process
+- 📥 Collected sample sales data (Excel)
+- 🧹 Cleaned and formatted data in Power BI
+- 🔗 Created relationships and DAX measures
+- 📊 Built visual charts for sales, products, regions, customers
+- 🎛️ Added filters for interactivity (date, region, category)
+- 🎨 Designed layout with clean formatting
+- ✅ Tested and exported the final dashboard
 
 ## Dashboard
