@@ -22,3 +22,4 @@ To build an interactive Power BI dashboard that helps stakeholders of a "commerc
 - ✅ Tested and exported the final dashboard
 
 ## Dashboard
+![Sales Data Analysis Dashboard](https://github.com/user-attachments/assets/4a97b30a-5b8a-47f7-9761-a890720105fb)
